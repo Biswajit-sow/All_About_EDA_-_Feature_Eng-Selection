@@ -7,15 +7,16 @@ If you're starting your journey into **data science** or **machine learning**, t
 ---
 
 ## 📘 What's Inside
-🔹**Two Datset example of EDA and fE ,FS**
+🔹**Two Datset example of EDA and fE ,FS**--
 One is Zomato & Country-code and another is Blackfriday-train & Blackfriday-test dataset
-🔹 **Keyboardwritten Notes**
+
+🔹 **Keyboardwritten Notes**--
 Clear and concise keyboardwritten notes are included to make concepts easier to understand — perfect for visual learners.
 
-🔹 **Practical Code Examples**
+🔹 **Practical Code Examples**--
 Step-by-step code for EDA, feature engineering, and feature selection using `pandas`, `sklearn`, and more.
 
-🔹 **Text Summary Files**
+🔹 **Text Summary Files**--
 Quick `.txt` files explaining all EDA, FS & FE concepts for quick revision and interview prep.
 
 ---
