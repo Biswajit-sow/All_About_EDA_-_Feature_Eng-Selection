@@ -7,7 +7,7 @@ If you're starting your journey into **data science** or **machine learning**, t
 ---
 
 ## 📘 What's Inside
-🔹**Two Datset example of EDA and fE ,FS**--
+🔹**Three  Datset example of EDA and fE ,FS**--
 One is Zomato & Country-code and another is Blackfriday-train & Blackfriday-test dataset
 
 🔹 **Keyboardwritten Notes**--
@@ -29,15 +29,20 @@ Quick `.txt` files explaining all EDA, FS & FE concepts for quick revision and i
 * Outlier detection
 * Distribution plots
 * Correlation heatmaps
+  
+### 2. **Types of Exploratory Data Analysis (EDA)**
+*Univarient
+*Bivarient
+*Multivarient
 
-### 2. **Feature Engineering (FE)**
+### 3. **Feature Engineering (FE)**
 
 * Categorical encoding (One-hot, Label)
 * Binning
 * Transformation (log, power, scaling)
 * Date/time features
 
-### 3. **Feature Selection (FS)**
+### 4. **Feature Selection (FS)**
 
 * Univariate selection (Chi-squared, ANOVA)
 * Recursive Feature Elimination (RFE)
