@@ -31,9 +31,9 @@ Quick `.txt` files explaining all EDA, FS & FE concepts for quick revision and i
 * Correlation heatmaps
   
 ### 2. **Types of Exploratory Data Analysis (EDA)**
-*Univarient
-*Bivarient
-*Multivarient
+* Univarient
+* Bivarient
+* MultiVarient
 
 ### 3. **Feature Engineering (FE)**
 
